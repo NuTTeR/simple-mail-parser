@@ -1,0 +1,6 @@
+#Но оставляем саму папку
+!bad/.gitkeep
+!in/.gitkeep
+!old/.gitkeep
+!out/.gitkeep
+!unprocessed/.gitkeep

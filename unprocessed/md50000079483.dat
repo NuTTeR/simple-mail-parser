@@ -1,0 +1,26 @@
+--processed_path--
+2020-07-16\md50000079483
+--msg_from--
+Andrew Chumak	andrey.m.chumak@gmail.com
+--orig_filepath--
+D:\Temp\mail\in\md50000079483.msg
+--orig_file--
+md50000079483.msg
+--msg_to--
+	to-addr@org.ru
+--processed_path_full--
+D:\Temp\mail\out\2020-07-16\md50000079483
+--msg_cc--
+
+--msg_subject--
+тема письма
+--msg_body_expected_charset--
+utf-8
+--msg_att--
+тестовое вложение.txt
+--processed_date--
+2020-07-16 16:23:04
+--msg_date--
+2020-07-16 16:21:17
+--msg_body_type--
+html
